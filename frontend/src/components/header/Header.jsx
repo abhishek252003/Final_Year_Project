@@ -68,6 +68,10 @@ const NavLinks = ({ mobile = false }) => {
       <Link to="/" className={linkClass}>Home</Link>
       <Link to="/courses" className={linkClass}>Courses</Link>
       <Link to="/about" className={linkClass}>About</Link>
+      <Link to="/editor" className={linkClass}>Editor</Link>
+      
+      
+
     </>
   );
 };

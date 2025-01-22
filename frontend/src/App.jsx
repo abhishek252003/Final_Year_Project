@@ -21,6 +21,7 @@ import AdminCourses from "./admin/Courses/AdminCourses";
 import AdminUsers from "./admin/Users/AdminUsers";
 import ForgotPassword from "./pages/auth/ForgotPassword";
 import ResetPassword from "./pages/auth/ResetPassword";
+import Editor from "./pages/editor/Editor";
 
 const App = () => {
   const { isAuth, user, loading } = UserData();
@@ -35,6 +36,7 @@ const App = () => {
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/courses" element={<Courses />} />
+            <Route path="/editor" element={<Editor />} />
             <Route
               path="/account"
               element={isAuth ? <Account user={user} /> : <Login />}
