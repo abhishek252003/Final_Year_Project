@@ -20,8 +20,8 @@ Thanks to these amazing people for their contributions:
 ### Individual Contributors
 | Name                | GitHub Profile                                         |
 |---------------------|-------------------------------------------------------|
-| **Aditya**          | [aditya9824bs](https://github.com/aditya9824bs)        |
-| **Naarav**          | [jnaarav](https://github.com/jnaarav)                  |
+| **Aditya Dubey**          | [aditya9824bs](https://github.com/aditya9824bs)        |
+| **Aarav Jain**          | [jnaarav](https://github.com/jnaarav)                  |
 | **Abhishek Garg**   | [abhishekgarg10](https://github.com/abhishekgarg10)     |
 | **Abhishek Kumar Chaurasia** | [abhishek252003](https://github.com/abhishek252003) |
 
