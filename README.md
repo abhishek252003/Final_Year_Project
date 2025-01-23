@@ -13,8 +13,8 @@ This project is an advanced e-learning platform designed to make learning more i
 ## Contributors
 Thanks to these amazing people for their contributions:
 
-<a href="https://github.com/abhishek252003/Final_Year_Project/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=abhishek252003/Final_Year_Project" />
+<a href="https://github.com/abhishek252003/Skill-Hub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=abhishek252003/Skill-Hub" />
 </a>
 
 ### Individual Contributors
@@ -35,11 +35,11 @@ Follow these steps to set up the project on your system:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishek252003/Final_Year_Project.git
-    ```
+    git clone https://github.com/abhishek252003/Skill-Hub.git
+    ```                     
 2. **Navigate to the project directory**:
     ```bash
-    cd Final_Year_Project
+    cd Skill-Hub
     ```
 3. **Install dependencies**:
     ```bash
