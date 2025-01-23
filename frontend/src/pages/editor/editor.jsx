@@ -1,9 +1,10 @@
 import React from 'react';
+import './editor.css';
 
 const Editor = () => {
   return (
-    <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-6"> Skill-Hub Code Editor</h1>
+    <div className="container mx-auto px-10 py-8">
+      <h1 className="text-3xl font-bold mb-6 text-center "> Skill-Hub Code Editor</h1>
       <div className="w-full rounded-lg shadow-lg overflow-hidden">
         <iframe
           frameBorder="0"
