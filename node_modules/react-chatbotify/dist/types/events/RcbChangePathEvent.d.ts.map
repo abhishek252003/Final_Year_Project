@@ -1,0 +1,1 @@
+{"version":3,"file":"RcbChangePathEvent.d.ts","sourceRoot":"","sources":["../../../src/types/events/RcbChangePathEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,iCAAiC,CAAC;AAE/D;;GAEG;AACH,MAAM,MAAM,kBAAkB,GAAG,YAAY,CAAC;IAC1C,QAAQ,EAAE,MAAM,CAAC;IACjB,QAAQ,EAAE,MAAM,CAAC;IACjB,QAAQ,EAAE,MAAM,CAAC;CACpB,CAAC,CAAC"}

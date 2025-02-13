@@ -1,0 +1,1 @@
+{"version":3,"file":"RcbPostInjectMessageEvent.d.ts","sourceRoot":"","sources":["../../../src/types/events/RcbPostInjectMessageEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,iCAAiC,CAAC;AAC/D,OAAO,EAAE,OAAO,EAAE,MAAM,YAAY,CAAC;AAErC;;GAEG;AACH,MAAM,MAAM,yBAAyB,GAAG,YAAY,CAAC;IACpD,OAAO,EAAE,OAAO,CAAC;CACjB,CAAC,CAAC"}

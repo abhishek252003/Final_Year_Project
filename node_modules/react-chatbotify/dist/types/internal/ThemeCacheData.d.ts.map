@@ -1,0 +1,1 @@
+{"version":3,"file":"ThemeCacheData.d.ts","sourceRoot":"","sources":["../../../src/types/internal/ThemeCacheData.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,aAAa,CAAC;AACvC,OAAO,EAAE,MAAM,EAAE,MAAM,WAAW,CAAC;AAEnC;;GAEG;AACH,MAAM,MAAM,cAAc,GAAG;IAC5B,QAAQ,EAAE,QAAQ,CAAC;IACnB,YAAY,EAAE,MAAM,CAAC;IACrB,aAAa,EAAE,MAAM,CAAC;IACtB,SAAS,EAAE,MAAM,CAAC;CAClB,CAAA"}

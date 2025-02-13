@@ -1,0 +1,1 @@
+{"version":3,"file":"RcbRemoveMessageEvent.d.ts","sourceRoot":"","sources":["../../../src/types/events/RcbRemoveMessageEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,iCAAiC,CAAC;AAC/D,OAAO,EAAE,OAAO,EAAE,MAAM,YAAY,CAAC;AAErC;;GAEG;AACH,MAAM,MAAM,qBAAqB,GAAG,YAAY,CAAC;IAC7C,OAAO,EAAE,OAAO,CAAC;CACpB,CAAC,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"RcbToggleNotificationsEvent.d.ts","sourceRoot":"","sources":["../../../src/types/events/RcbToggleNotificationsEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,iCAAiC,CAAC;AAE/D;;GAEG;AACH,MAAM,MAAM,2BAA2B,GAAG,YAAY,CAAC;IACtD,SAAS,EAAE,OAAO,CAAC;IACnB,QAAQ,EAAE,OAAO,CAAC;CAClB,CAAC,CAAC"}

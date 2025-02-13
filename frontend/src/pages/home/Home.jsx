@@ -1,15 +1,20 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Clock } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import Testimonials from '@/components/testimonials/Testimonials';
 
+
 export default function Home() {
   return (
     <>
+
+    
       <section className="relative min-h-screen flex items-center justify-center  ml-auto mr-auto px-14 py-20 max-w-10xl bg-blue-100 rounded-lg shadow-lg bg-cover bg-center">
         <div className="absolute inset-0 bg-blue-200 bg-opacity-50" />
+
+     
+
         <div className="container mx-auto relative z-10 px-4 sm:px-6 lg:px-8">
           <motion.div
             animate={{ x: 20,

@@ -1,0 +1,6 @@
+import { Block } from "./Block";
+/**
+ * Defines a conversation Flow (made up of conversation blocks).
+ */
+export type Flow = Record<string, Block>;
+//# sourceMappingURL=Flow.d.ts.map

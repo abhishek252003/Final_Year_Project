@@ -1,0 +1,1 @@
+{"version":3,"file":"RcbToggleAudioEvent.d.ts","sourceRoot":"","sources":["../../../src/types/events/RcbToggleAudioEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,iCAAiC,CAAC;AAE/D;;GAEG;AACH,MAAM,MAAM,mBAAmB,GAAG,YAAY,CAAC;IAC9C,SAAS,EAAE,OAAO,CAAC;IACnB,QAAQ,EAAE,OAAO,CAAC;CAClB,CAAC,CAAC"}

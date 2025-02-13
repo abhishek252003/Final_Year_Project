@@ -1,0 +1,1 @@
+{"version":3,"file":"RcbToggleChatWindowEvent.d.ts","sourceRoot":"","sources":["../../../src/types/events/RcbToggleChatWindowEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,iCAAiC,CAAC;AAE/D;;GAEG;AACH,MAAM,MAAM,wBAAwB,GAAG,YAAY,CAAC;IACnD,SAAS,EAAE,OAAO,CAAC;IACnB,QAAQ,EAAE,OAAO,CAAC;CAClB,CAAC,CAAC"}
